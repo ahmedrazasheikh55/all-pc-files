@@ -1,0 +1,10 @@
+p:first-child{
+  font-size: large;
+  background-color: aquamarine;
+}
+p:nth-child(1n){
+font-size: large;
+padding: 40px;
+margin: auto;
+background-color: blue;
+}
